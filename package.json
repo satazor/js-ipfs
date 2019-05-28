@@ -82,6 +82,8 @@
     "stream-to-promise": "^2.2.0"
   },
   "dependencies": {
+    "ky": "^0.9.1",
+    "ky-universal": "^0.1.0",
     "async": "^2.6.1",
     "bignumber.js": "^8.0.2",
     "binary-querystring": "~0.1.2",
